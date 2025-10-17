@@ -1,114 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Rememberit EPG">
 <!-- Palinsesto aggiornato: venerdì 17 ottobre 2025 -->
-<channel id="20"><display-name>20</display-name></channel>
-<channel id="27"><display-name>27</display-name></channel>
-<channel id="8"><display-name>8</display-name></channel>
-<channel id="Canale5"><display-name>Canale 5</display-name></channel>
-<channel id="CIELO"><display-name>CIELO</display-name></channel>
-<channel id="CINE34"><display-name>CINE 34</display-name></channel>
-<channel id="Focus"><display-name>Focus</display-name></channel>
-<channel id="IRIS"><display-name>IRIS</display-name></channel>
 <channel id="Italia1"><display-name>Italia 1</display-name></channel>
-<channel id="LA5"><display-name>LA 5</display-name></channel>
 <channel id="La7"><display-name>La7</display-name></channel>
-<channel id="NOVE"><display-name>NOVE</display-name></channel>
-<channel id="Rai1"><display-name>Rai 1</display-name></channel>
-<channel id="Rai2"><display-name>Rai 2</display-name></channel>
-<channel id="Rai3"><display-name>Rai 3</display-name></channel>
-<channel id="Rai4"><display-name>Rai 4</display-name></channel>
-<channel id="Rai5"><display-name>Rai 5</display-name></channel>
-<channel id="RaiMovie"><display-name>Rai Movie</display-name></channel>
-<channel id="RaiPremium"><display-name>Rai Premium</display-name></channel>
+<channel id="Canale5"><display-name>Canale 5</display-name></channel>
 <channel id="Rete4"><display-name>Rete 4</display-name></channel>
-<channel id="TV2000"><display-name>TV2000</display-name></channel>
-<channel id="WBTV"><display-name>WB TV</display-name></channel>
-<programme start="20251017175353 +0200" channel="20">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<channel id="NOVE"><display-name>NOVE</display-name></channel>
+<channel id="20"><display-name>20</display-name></channel>
+<channel id="Rai2"><display-name>Rai 2</display-name></channel>
+<channel id="Rai4"><display-name>Rai 4</display-name></channel>
+<channel id="RaiPremium"><display-name>Rai Premium</display-name></channel>
+<channel id="Rai1"><display-name>Rai 1</display-name></channel>
+<channel id="Rai3"><display-name>Rai 3</display-name></channel>
+<channel id="RaiMovie"><display-name>Rai Movie</display-name></channel>
+<programme start="20251017181237+02:00" channel="Italia1">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="27">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="La7">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="8">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="Canale5">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="Canale5">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="Rete4">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="CIELO">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="NOVE">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="CINE34">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="20">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="Focus">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="Rai2">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="IRIS">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="Rai4">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="Italia1">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="RaiPremium">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="LA5">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="Rai1">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="La7">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="Rai3">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
-<programme start="20251017175353 +0200" channel="NOVE">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="Rai1">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="Rai2">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="Rai3">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="Rai4">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="Rai5">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="RaiMovie">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="RaiPremium">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="Rete4">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="TV2000">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
-</programme>
-<programme start="20251017175353 +0200" channel="WBTV">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251017181237+02:00" channel="RaiMovie">
+    <title>16/10</title>
+    <desc>Ore 23:16</desc>
 </programme>
 </tv>
