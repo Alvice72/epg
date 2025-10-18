@@ -1,69 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Rememberit EPG">
-<!-- Palinsesto aggiornato: venerdì 17 ottobre 2025 -->
+<!-- Aggiornato: sabato 18 ottobre 2025 -->
 <channel id="Rai1"><display-name>Rai 1</display-name></channel>
-<channel id="RaiPremium"><display-name>Rai Premium</display-name></channel>
+<channel id="La7"><display-name>La7</display-name></channel>
+<channel id="Rai3"><display-name>Rai 3</display-name></channel>
+<channel id="Italia1"><display-name>Italia 1</display-name></channel>
+<channel id="Rai2"><display-name>Rai 2</display-name></channel>
+<channel id="NOVE"><display-name>NOVE</display-name></channel>
+<channel id="Canale5"><display-name>Canale 5</display-name></channel>
+<channel id="TV8"><display-name>TV8</display-name></channel>
+<channel id="Rete4"><display-name>Rete 4</display-name></channel>
+<channel id="20"><display-name>20</display-name></channel>
+<channel id="Rai4"><display-name>Rai 4</display-name></channel>
+<channel id="IRIS"><display-name>IRIS</display-name></channel>
 <channel id="Rai5"><display-name>Rai 5</display-name></channel>
 <channel id="RaiMovie"><display-name>Rai Movie</display-name></channel>
-<channel id="La7"><display-name>La7</display-name></channel>
-<channel id="NOVE"><display-name>NOVE</display-name></channel>
-<channel id="20"><display-name>20</display-name></channel>
-<channel id="Rete4"><display-name>Rete 4</display-name></channel>
-<channel id="Canale5"><display-name>Canale 5</display-name></channel>
-<channel id="Italia1"><display-name>Italia 1</display-name></channel>
-<channel id="Rai4"><display-name>Rai 4</display-name></channel>
-<channel id="Rai3"><display-name>Rai 3</display-name></channel>
-<channel id="Rai2"><display-name>Rai 2</display-name></channel>
-<programme start="20251017182155+02:00" channel="Rai1">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<channel id="Cielo"><display-name>Cielo</display-name></channel>
+<channel id="27"><display-name>27</display-name></channel>
+<channel id="RaiPremium"><display-name>Rai Premium</display-name></channel>
+<channel id="La5"><display-name>La5</display-name></channel>
+<channel id="TV2000"><display-name>TV2000</display-name></channel>
+<channel id="WBTV"><display-name>WB TV</display-name></channel>
+<channel id="Italia2"><display-name>Italia 2</display-name></channel>
+<channel id="Cine34"><display-name>Cine34</display-name></channel>
+<programme start="20251018073430+02:00" channel="Rai1">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="RaiPremium">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="La7">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="Rai5">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="Rai3">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="RaiMovie">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="Italia1">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="La7">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="Rai2">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="NOVE">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="NOVE">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="20">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="Canale5">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="Rete4">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="TV8">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="Canale5">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="Rete4">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="Italia1">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="20">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="Rai4">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="Rai4">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="Rai3">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="IRIS">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
-<programme start="20251017182155+02:00" channel="Rai2">
-    <title>Nessun programma disponibile</title>
-    <desc>Ore 21:30</desc>
+<programme start="20251018073430+02:00" channel="Rai5">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
+</programme>
+<programme start="20251018073430+02:00" channel="RaiMovie">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
+</programme>
+<programme start="20251018073430+02:00" channel="Cielo">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
+</programme>
+<programme start="20251018073430+02:00" channel="27">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
+</programme>
+<programme start="20251018073430+02:00" channel="RaiPremium">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
+</programme>
+<programme start="20251018073430+02:00" channel="La5">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
+</programme>
+<programme start="20251018073430+02:00" channel="TV2000">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
+</programme>
+<programme start="20251018073430+02:00" channel="WBTV">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
+</programme>
+<programme start="20251018073430+02:00" channel="Italia2">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
+</programme>
+<programme start="20251018073430+02:00" channel="Cine34">
+    <title>Nessun dato trovato</title>
+    <desc>Ore </desc>
 </programme>
 </tv>
