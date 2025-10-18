@@ -1,4 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Rememberit EPG">
-<!-- Aggiornato: sabato 18 ottobre 2025 -->
+<tv generator-info-name="Rememberit Custom EPG">
+<!-- Palinsesto aggiornato: sabato 18 ottobre 2025 -->
+<channel id="Rai1">
+    <display-name>Rai 1</display-name>
+</channel>
+<channel id="Rai2">
+    <display-name>Rai 2</display-name>
+</channel>
+<channel id="Rai3">
+    <display-name>Rai 3</display-name>
+</channel>
+<channel id="Rete4">
+    <display-name>Rete 4</display-name>
+</channel>
+<channel id="Canale5">
+    <display-name>Canale 5</display-name>
+</channel>
+<channel id="Italia1">
+    <display-name>Italia 1</display-name>
+</channel>
+<channel id="La7">
+    <display-name>La7</display-name>
+</channel>
+<channel id="TV8">
+    <display-name>TV8</display-name>
+</channel>
+<channel id="NOVE">
+    <display-name>NOVE</display-name>
+</channel>
+<channel id="Rai4">
+    <display-name>Rai 4</display-name>
+</channel>
+<channel id="Rai5">
+    <display-name>Rai 5</display-name>
+</channel>
+<channel id="RaiMovie">
+    <display-name>Rai Movie</display-name>
+</channel>
+<channel id="RaiPremium">
+    <display-name>Rai Premium</display-name>
+</channel>
+<channel id="CIELO">
+    <display-name>CIELO</display-name>
+</channel>
+<channel id="27">
+    <display-name>27</display-name>
+</channel>
+<channel id="LA5">
+    <display-name>LA 5</display-name>
+</channel>
+<channel id="CINE34">
+    <display-name>CINE 34</display-name>
+</channel>
+<channel id="IRIS">
+    <display-name>IRIS</display-name>
+</channel>
+<channel id="Focus">
+    <display-name>Focus</display-name>
+</channel>
+<channel id="TV2000">
+    <display-name>TV2000</display-name>
+</channel>
+<channel id="20">
+    <display-name>20</display-name>
+</channel>
+<channel id="WBTV">
+    <display-name>WB TV</display-name>
+</channel>
+<programme start="20251018T092816Z+0200" channel="Rai1">
+    <title>Tale e Quale Show</title>
+    <desc>Inizio ore 21:25</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="Rai2">
+    <title>NCIS: Hawaii</title>
+    <desc>Inizio ore 21:20</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="Rai3">
+    <title>Report</title>
+    <desc>Inizio ore 21:30</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="Rete4">
+    <title>Quarto Grado</title>
+    <desc>Inizio ore 21:25</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="Canale5">
+    <title>Grande Fratello</title>
+    <desc>Inizio ore 21:30</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="Italia1">
+    <title>Batman Begins</title>
+    <desc>Inizio ore 21:20</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="La7">
+    <title>Propaganda Live</title>
+    <desc>Inizio ore 21:15</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="TV8">
+    <title>MasterChef Italia</title>
+    <desc>Inizio ore 21:30</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="NOVE">
+    <title>Fratelli di Crozza</title>
+    <desc>Inizio ore 21:25</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="Rai4">
+    <title>The 100</title>
+    <desc>Inizio ore 21:20</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="Rai5">
+    <title>Art Night</title>
+    <desc>Inizio ore 21:15</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="RaiMovie">
+    <title>Ocean’s Eleven</title>
+    <desc>Inizio ore 21:10</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="RaiPremium">
+    <title>Don Matteo</title>
+    <desc>Inizio ore 21:20</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="CIELO">
+    <title>Borderline</title>
+    <desc>Inizio ore 21:15</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="27">
+    <title>Jurassic Park</title>
+    <desc>Inizio ore 21:15</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="LA5">
+    <title>Uomini e Donne</title>
+    <desc>Inizio ore 21:20</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="CINE34">
+    <title>Il Marchese del Grillo</title>
+    <desc>Inizio ore 21:10</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="IRIS">
+    <title>Il Padrino</title>
+    <desc>Inizio ore 21:10</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="Focus">
+    <title>Universo Nascosto</title>
+    <desc>Inizio ore 21:15</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="TV2000">
+    <title>Rosario da Lourdes</title>
+    <desc>Inizio ore 21:10</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="20">
+    <title>Fast & Furious 7</title>
+    <desc>Inizio ore 21:20</desc>
+</programme>
+<programme start="20251018T092816Z+0200" channel="WBTV">
+    <title>Friends</title>
+    <desc>Inizio ore 21:15</desc>
+</programme>
 </tv>
