@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Rememberit Manual EPG">
-<!-- Palinsesto aggiornato manualmente: 2025-10-18 10:04:36 +0000 -->
+<!-- Palinsesto aggiornato manualmente: 2025-10-18 10:26:31 +0000 -->
     <channel id="Rai1">
         <display-name>Rai 1</display-name>
     </channel>
@@ -61,105 +61,105 @@
     <channel id="CINE34">
         <display-name>CINE 34</display-name>
     </channel>
-    <channel id="WBTV">
-        <display-name>WB TV</display-name>
-    </channel>
     <channel id="Focus">
         <display-name>Focus</display-name>
+    </channel>
+    <channel id="WBTV">
+        <display-name>WB TV</display-name>
     </channel>
     <channel id="Italia2">
         <display-name>Italia 2</display-name>
     </channel>
-    <programme start="20251018120436+0200" channel="Rai1">
-        <title>Il Commissario Montalbano</title>
+    <programme start="20251018122631+0200" channel="Rai1">
+        <title>Ballando con le Stelle</title>
         <desc>Inizio: 21:25</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="Rai2">
-        <title>N.C.I.S.</title>
+    <programme start="20251018122631+0200" channel="Rai2">
+        <title>Nient'altro che la verità</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="Rai3">
-        <title>Report</title>
+    <programme start="20251018122631+0200" channel="Rai3">
+        <title>Sapiens Un solo pianeta</title>
         <desc>Inizio: 21:25</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="Rete4">
-        <title>Dritto e Rovescio</title>
+    <programme start="20251018122631+0200" channel="Rete4">
+        <title>Air Force One</title>
         <desc>Inizio: 21:25</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="Canale5">
-        <title>Grande Fratello</title>
+    <programme start="20251018122631+0200" channel="Canale5">
+        <title>Tu si que vales</title>
         <desc>Inizio: 21:30</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="Italia1">
-        <title>Le Iene</title>
+    <programme start="20251018122631+0200" channel="Italia1">
+        <title>L'era glaciale 4 - Continenti alla deriva</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="La7">
-        <title>Propaganda Live</title>
+    <programme start="20251018122631+0200" channel="La7">
+        <title>In altre parole</title>
         <desc>Inizio: 21:15</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="8">
-        <title>Italia's Got Talent</title>
+    <programme start="20251018122631+0200" channel="8">
+        <title>Alessandro Borghese - 4 Ristoranti</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="NOVE">
-        <title>Fratelli di Crozza</title>
+    <programme start="20251018122631+0200" channel="NOVE">
+        <title>Accordi e disaccordi</title>
         <desc>Inizio: 21:25</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="20">
-        <title>Harry Potter e i Doni della Morte</title>
+    <programme start="20251018122631+0200" channel="20">
+        <title>Senza nome e senza regola</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="Rai4">
-        <title>Marvel’s Agents of S.H.I.E.L.D.</title>
+    <programme start="20251018122631+0200" channel="Rai4">
+        <title>Salt</title>
         <desc>Inizio: 21:15</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="IRIS">
-        <title>Il Padrino – Parte II</title>
+    <programme start="20251018122631+0200" channel="IRIS">
+        <title>L'uomo di neve</title>
         <desc>Inizio: 21:00</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="Rai5">
-        <title>Concerto Sinfonico da Firenze</title>
+    <programme start="20251018122631+0200" channel="Rai5">
+        <title>Splendida Cornice</title>
         <desc>Inizio: 21:15</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="RaiMovie">
-        <title>Basilicata Coast to Coast</title>
+    <programme start="20251018122631+0200" channel="RaiMovie">
+        <title>Belva di guerra</title>
         <desc>Inizio: 21:10</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="RaiPremium">
-        <title>Don Matteo (Replica)</title>
+    <programme start="20251018122631+0200" channel="RaiPremium">
+        <title>Blanca</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="CIELO">
-        <title>MasterChef Italia</title>
+    <programme start="20251018122631+0200" channel="CIELO">
+        <title>Gomorra: la serie</title>
         <desc>Inizio: 21:15</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="27">
-        <title>Men in Black</title>
+    <programme start="20251018122631+0200" channel="27">
+        <title>Le amiche della sposa</title>
         <desc>Inizio: 21:10</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="TV2000">
-        <title>Il Rosario da Lourdes</title>
+    <programme start="20251018122631+0200" channel="TV2000">
+        <title>Nelle tue mani Bartolo Longo</title>
         <desc>Inizio: 21:05</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="LA5">
-        <title>Amore Pensaci Tu</title>
+    <programme start="20251018122631+0200" channel="LA5">
+        <title>RosamundePilcher: Il coraggio di ricominciare</title>
         <desc>Inizio: 21:10</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="CINE34">
-        <title>Totò, Peppino e la Malafemmina</title>
+    <programme start="20251018122631+0200" channel="CINE34">
+        <title>L'insegnante</title>
         <desc>Inizio: 21:15</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="WBTV">
-        <title>Friends (Maratona)</title>
+    <programme start="20251018122631+0200" channel="Focus">
+        <title>L'egitto dei faraoni ascesa e caduta di una civiltà</title>
+        <desc>Inizio: 21:15</desc>
+    </programme>
+    <programme start="20251018122631+0200" channel="WBTV">
+        <title>Ai confini della civiltà</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018120436+0200" channel="Focus">
-        <title>L’Universo Svelato</title>
-        <desc>Inizio: 21:15</desc>
-    </programme>
-    <programme start="20251018120436+0200" channel="Italia2">
-        <title>Dragon Ball Super</title>
+    <programme start="20251018122631+0200" channel="Italia2">
+        <title>Amityville possession</title>
         <desc>Inizio: 21:15</desc>
     </programme>
 </tv>
