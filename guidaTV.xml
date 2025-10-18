@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Rememberit Manual EPG">
-<!-- Palinsesto aggiornato manualmente: 2025-10-18 10:26:31 +0000 -->
+<!-- Palinsesto aggiornato manualmente: 2025-10-18 10:39:29 +0000 -->
     <channel id="Rai1">
         <display-name>Rai 1</display-name>
     </channel>
@@ -70,95 +70,95 @@
     <channel id="Italia2">
         <display-name>Italia 2</display-name>
     </channel>
-    <programme start="20251018122631+0200" channel="Rai1">
+    <programme start="20251018123929+0200" channel="Rai1">
         <title>Ballando con le Stelle</title>
         <desc>Inizio: 21:25</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="Rai2">
+    <programme start="20251018123929+0200" channel="Rai2">
         <title>Nient'altro che la verità</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="Rai3">
+    <programme start="20251018123929+0200" channel="Rai3">
         <title>Sapiens Un solo pianeta</title>
-        <desc>Inizio: 21:25</desc>
+        <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="Rete4">
+    <programme start="20251018123929+0200" channel="Rete4">
         <title>Air Force One</title>
-        <desc>Inizio: 21:25</desc>
+        <desc>Inizio: 21:33</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="Canale5">
+    <programme start="20251018123929+0200" channel="Canale5">
         <title>Tu si que vales</title>
+        <desc>Inizio: 21:20</desc>
+    </programme>
+    <programme start="20251018123929+0200" channel="Italia1">
+        <title>L'era glaciale 4 - Continenti alla deriva</title>
+        <desc>Inizio: 21:26</desc>
+    </programme>
+    <programme start="20251018123929+0200" channel="La7">
+        <title>In altre parole</title>
+        <desc>Inizio: 20:35</desc>
+    </programme>
+    <programme start="20251018123929+0200" channel="8">
+        <title>Alessandro Borghese - 4 Ristoranti</title>
+        <desc>Inizio: 20:30</desc>
+    </programme>
+    <programme start="20251018123929+0200" channel="NOVE">
+        <title>Accordi e disaccordi</title>
         <desc>Inizio: 21:30</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="Italia1">
-        <title>L'era glaciale 4 - Continenti alla deriva</title>
-        <desc>Inizio: 21:20</desc>
-    </programme>
-    <programme start="20251018122631+0200" channel="La7">
-        <title>In altre parole</title>
-        <desc>Inizio: 21:15</desc>
-    </programme>
-    <programme start="20251018122631+0200" channel="8">
-        <title>Alessandro Borghese - 4 Ristoranti</title>
-        <desc>Inizio: 21:20</desc>
-    </programme>
-    <programme start="20251018122631+0200" channel="NOVE">
-        <title>Accordi e disaccordi</title>
-        <desc>Inizio: 21:25</desc>
-    </programme>
-    <programme start="20251018122631+0200" channel="20">
+    <programme start="20251018123929+0200" channel="20">
         <title>Senza nome e senza regola</title>
-        <desc>Inizio: 21:20</desc>
+        <desc>Inizio: 21:10</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="Rai4">
+    <programme start="20251018123929+0200" channel="Rai4">
         <title>Salt</title>
-        <desc>Inizio: 21:15</desc>
+        <desc>Inizio: 21:19</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="IRIS">
+    <programme start="20251018123929+0200" channel="IRIS">
         <title>L'uomo di neve</title>
-        <desc>Inizio: 21:00</desc>
+        <desc>Inizio: 21:14</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="Rai5">
+    <programme start="20251018123929+0200" channel="Rai5">
         <title>Splendida Cornice</title>
-        <desc>Inizio: 21:15</desc>
+        <desc>Inizio: 21:23</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="RaiMovie">
+    <programme start="20251018123929+0200" channel="RaiMovie">
         <title>Belva di guerra</title>
         <desc>Inizio: 21:10</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="RaiPremium">
+    <programme start="20251018123929+0200" channel="RaiPremium">
         <title>Blanca</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="CIELO">
+    <programme start="20251018123929+0200" channel="CIELO">
         <title>Gomorra: la serie</title>
-        <desc>Inizio: 21:15</desc>
+        <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="27">
+    <programme start="20251018123929+0200" channel="27">
         <title>Le amiche della sposa</title>
-        <desc>Inizio: 21:10</desc>
+        <desc>Inizio: 21:13</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="TV2000">
+    <programme start="20251018123929+0200" channel="TV2000">
         <title>Nelle tue mani Bartolo Longo</title>
         <desc>Inizio: 21:05</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="LA5">
+    <programme start="20251018123929+0200" channel="LA5">
         <title>RosamundePilcher: Il coraggio di ricominciare</title>
         <desc>Inizio: 21:10</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="CINE34">
+    <programme start="20251018123929+0200" channel="CINE34">
         <title>L'insegnante</title>
         <desc>Inizio: 21:15</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="Focus">
+    <programme start="20251018123929+0200" channel="Focus">
         <title>L'egitto dei faraoni ascesa e caduta di una civiltà</title>
+        <desc>Inizio: 21:28</desc>
+    </programme>
+    <programme start="20251018123929+0200" channel="WBTV">
+        <title>Ai confini della civiltà</title>
         <desc>Inizio: 21:15</desc>
     </programme>
-    <programme start="20251018122631+0200" channel="WBTV">
-        <title>Ai confini della civiltà</title>
-        <desc>Inizio: 21:20</desc>
-    </programme>
-    <programme start="20251018122631+0200" channel="Italia2">
+    <programme start="20251018123929+0200" channel="Italia2">
         <title>Amityville possession</title>
         <desc>Inizio: 21:15</desc>
     </programme>
