@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Rememberit Manual EPG">
-<!-- Palinsesto aggiornato manualmente: 2025-10-18 16:11:48 +0000 -->
+<!-- Palinsesto aggiornato manualmente: 2025-10-21 15:59:04 +0000 -->
     <channel id="Rai1">
         <display-name>Rai 1</display-name>
     </channel>
@@ -70,96 +70,96 @@
     <channel id="Italia2">
         <display-name>Italia 2</display-name>
     </channel>
-    <programme start="20251018181148+0200" channel="Rai1">
-        <title>Ballando con le Stelle</title>
-        <desc>Inizio: 21:25</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="Rai2">
-        <title>Nient'altro che la verità</title>
-        <desc>Inizio: 21:20</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="Rai3">
-        <title>Sapiens Un solo pianeta</title>
-        <desc>Inizio: 21:20</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="Rete4">
-        <title>Air Force One</title>
-        <desc>Inizio: 21:33</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="Canale5">
-        <title>Tu si que vales</title>
-        <desc>Inizio: 21:20</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="Italia1">
-        <title>L'era glaciale 4 - Continenti alla deriva</title>
-        <desc>Inizio: 21:26</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="La7">
-        <title>In altre parole</title>
-        <desc>Inizio: 20:35</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="8">
-        <title>Alessandro Borghese - 4 Ristoranti</title>
-        <desc>Inizio: 20:30</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="NOVE">
-        <title>Accordi e disaccordi</title>
+    <programme start="20251021175904+0200" channel="Rai1">
+        <title>Il Commissario Montalbano</title>
         <desc>Inizio: 21:30</desc>
     </programme>
-    <programme start="20251018181148+0200" channel="20">
-        <title>Senza nome e senza regola</title>
-        <desc>Inizio: 21:10</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="Rai4">
-        <title>Salt</title>
-        <desc>Inizio: 21:19</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="IRIS">
-        <title>L'uomo di neve</title>
-        <desc>Inizio: 21:14</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="Rai5">
-        <title>Splendida Cornice</title>
-        <desc>Inizio: 21:23</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="RaiMovie">
-        <title>Belva di guerra</title>
-        <desc>Inizio: 21:10</desc>
-    </programme>
-    <programme start="20251018181148+0200" channel="RaiPremium">
-        <title>Blanca</title>
+    <programme start="20251021175904+0200" channel="Rai2">
+        <title>Il coraggio di Blanche</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018181148+0200" channel="CIELO">
-        <title>Gomorra: la serie</title>
+    <programme start="20251021175904+0200" channel="Rai3">
+        <title>Everything Everywhere All at.</title>
         <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018181148+0200" channel="27">
-        <title>Le amiche della sposa</title>
-        <desc>Inizio: 21:13</desc>
+    <programme start="20251021175904+0200" channel="Rete4">
+        <title>E' sempre cartabianca</title>
+        <desc>Inizio: 21:35</desc>
     </programme>
-    <programme start="20251018181148+0200" channel="TV2000">
-        <title>Nelle tue mani Bartolo Longo</title>
-        <desc>Inizio: 21:05</desc>
+    <programme start="20251021175904+0200" channel="Canale5">
+        <title>La notte nel cuore</title>
+        <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018181148+0200" channel="LA5">
-        <title>RosamundePilcher: Il coraggio di ricominciare</title>
-        <desc>Inizio: 21:10</desc>
+    <programme start="20251021175904+0200" channel="Italia1">
+        <title>Le Iene presentano: inside</title>
+        <desc>Inizio: 21:20</desc>
     </programme>
-    <programme start="20251018181148+0200" channel="CINE34">
-        <title>L'insegnante</title>
+    <programme start="20251021175904+0200" channel="La7">
+        <title>Dì martedì</title>
         <desc>Inizio: 21:15</desc>
     </programme>
-    <programme start="20251018181148+0200" channel="Focus">
-        <title>L'egitto dei faraoni ascesa e caduta di una civiltà</title>
-        <desc>Inizio: 21:28</desc>
+    <programme start="20251021175904+0200" channel="8">
+        <title>X Factor - ST.19</title>
+        <desc>Inizio: 21:35</desc>
     </programme>
-    <programme start="20251018181148+0200" channel="WBTV">
+    <programme start="20251021175904+0200" channel="NOVE">
+        <title>Only fun - Comico Show</title>
+        <desc>Inizio: 21:30</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="20">
+        <title>La mummia il ritorno</title>
+        <desc>Inizio: 21:08</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="Rai4">
+        <title>Everything Everywhere All at Once</title>
+        <desc>Inizio: 21:21</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="IRIS">
+        <title>Sentieri selvaggi</title>
+        <desc>Inizio: 21:21</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="Rai5">
+        <title>Questione di Karma</title>
+        <desc>Inizio: 21:23</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="RaiMovie">
+        <title>Il sapore del successo</title>
+        <desc>Inizio: 21:15</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="RaiPremium">
+        <title>Amore sulle ali del vento</title>
+        <desc>Inizio: 21:20</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="CIELO">
+        <title>UEFA Champions League</title>
+        <desc>Inizio: 21:20</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="27">
+        <title>Beethoven</title>
+        <desc>Inizio: 21:12</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="TV2000">
+        <title>L'ERBA DEL VICINO E' SEMPRE Più VERDE</title>
+        <desc>Inizio: 21:05</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="LA5">
+        <title>Grande Fratello</title>
+        <desc>Inizio: 21:25</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="CINE34">
+        <title>Non si ruba a casa dei ladri</title>
+        <desc>Inizio: 21:00</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="Focus">
+        <title>Slovenia Where nature come first</title>
+        <desc>Inizio: 21:25</desc>
+    </programme>
+    <programme start="20251021175904+0200" channel="WBTV">
         <title>Ai confini della civiltà</title>
         <desc>Inizio: 21:15</desc>
     </programme>
-    <programme start="20251018181148+0200" channel="Italia2">
-        <title>Amityville possession</title>
+    <programme start="20251021175904+0200" channel="Italia2">
+        <title>Scuola di polizia 4:Cittadini in guardia</title>
         <desc>Inizio: 21:15</desc>
     </programme>
 </tv>
